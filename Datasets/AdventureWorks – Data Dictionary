@@ -1,0 +1,7 @@
+- The Adventure Works DW is a centralized warehouse architecture consisting of fact tables, dimension tables,
+and containing data obtained from the OLTP database and other data sources via a traditional extract/transform/load (ELT) process. 
+- There are a total of 10 fact tables, with subject areas ranging from internet and reseller sales to financials to product inventory. 
+These fact tables are surrounded by 16 dimension tables, representing customers, product lines, accounts, employees, departments, geographic regions, and time. 
+
+AdventureWorksDW – Data Dictionary
+https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/home.html
